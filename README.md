@@ -2,7 +2,7 @@
 
 ## Overview
 
-`dummyrepo-go`, is a template is primarily intended for testing and
+`bad-go`, is a template is primarily intended for testing and
 demonstration purposes with stacklok projects. It is a simple Go project.
 
 ## How to Use This Template
